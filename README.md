@@ -15,3 +15,25 @@
   -*sit and wait until this component is no longer shown*
 
 - componentWillUnmount - good place to do cleanup
+
+
+***How This Code Works:***
+- So we have months of the year as:
+  ![screenshot 3](https://user-images.githubusercontent.com/31137669/52003817-c91d4d80-2482-11e9-8bb3-3ac74935342a.png)
+
+
+- Using new Date().getMonth() to get the current month and passed it as a parameter to the getSeason function, a logic test is done such that:  
+  --a. if month is  greater than 2 and less than 9 and
+  
+  --b. lat is greater that 0, then, 
+  
+  --c. using ternary operation, 
+  
+   --**lat > 0 ? "summer" : "winter";**, if it is true, season will be summer, else, winter
+    
+
+- ![screenshot 6](https://user-images.githubusercontent.com/31137669/52004667-e8b57580-2484-11e9-9bda-036060cb0e52.png)
+
+
+
+
