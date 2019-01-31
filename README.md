@@ -34,6 +34,22 @@
 
 - ![screenshot 6](https://user-images.githubusercontent.com/31137669/52004667-e8b57580-2484-11e9-9bda-036060cb0e52.png)
 
+- So,
+- ![screenshot 8](https://user-images.githubusercontent.com/31137669/52009219-a34a7580-248f-11e9-9a34-7c8b8c93157c.png)
+
+- App will display like below:
+
+- ![screenshot 10](https://user-images.githubusercontent.com/31137669/52009439-2f5c9d00-2490-11e9-8e4d-1a5824768459.png)
+
+- else if 
+
+- ![screenshot 11](https://user-images.githubusercontent.com/31137669/52009533-7054b180-2490-11e9-82bd-96a1ca8aeab9.png)
+
+- the display will be like:
+
+- ![screenshot 13](https://user-images.githubusercontent.com/31137669/52009654-b01b9900-2490-11e9-9077-ce0fd6af2a50.png)
+
+
 
 
 
